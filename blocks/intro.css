@@ -26,3 +26,35 @@
   font-weight: 400;
   max-width: 720px;
 }
+@media screen and (max-width: 1024px) {
+  .intro {
+    padding: 0 24px;
+    margin: 90px 0 0;
+  }
+
+  .intro__title {
+    font-size: 45px;
+    line-height: 49px;
+    margin: 0 0 50px;
+  }
+
+  .intro__quote {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .intro {
+    margin: 64px 0 0;
+  }
+
+  .intro__title {
+    font-size: 32px;
+    line-height: 35px;
+    margin: 0 0 40px;
+  }
+
+  .intro__quote-text {
+    line-height: 30px;
+  }
+}

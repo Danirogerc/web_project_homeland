@@ -8,3 +8,13 @@
   max-width: 255px;
   max-height: 69px;
 }
+@media screen and (max-width: 1024px) {
+  .header {
+    margin: 30px auto 50px;
+  }
+}
+@media screen and (max-width: 544px) {
+  .header {
+    margin: 20px auto 50px;
+  }
+

@@ -80,12 +80,12 @@
   text-decoration: none;
   max-width: 245px;
   padding: 13px 20px 13px 20px;
-  background: linear-gradient(0.25turn, #0278fe, #003a7b);
+  background: linear-gradient(90deg, #0278fe 0%, #003a7b 99.98%);
   border-radius: 4px;
   color: #fff;
   box-shadow: 5px 5px 10px #000000;
 }
 
 .places__card-button:hover {
-  background: linear-gradient(#203f63, #203043);
+  background: linear-gradient(90deg, #0278fe40 0%, #003a7b40 99.98%);
 }

@@ -52,8 +52,3 @@
     line-height: 20px;
   }
 }
-@media screen and (max-width: 360) {
-  .lead__image {
-    max-width: 100%;
-  }
-}

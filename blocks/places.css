@@ -94,10 +94,6 @@
   .places__card {
     margin: 24px;
   }
-  .places__card-website {
-  }
-  .places__card-paragraph {
-  }
   .places__card-title {
     max-width: 340px;
     font-size: 42px;
@@ -114,12 +110,3 @@
   .places__card {
     grid-template-columns: repeat(1, 1fr);
   }
-  .places__card-paragraph {
-  }
-  .places__card-title {
-  }
-  .places__card-button {
-  }
-  .places__card-img {
-  }
-}

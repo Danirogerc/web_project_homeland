@@ -5,8 +5,6 @@
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: auto;
-
-  justify-content: flex-start;
   margin-top: 80px;
   column-gap: 40px;
 }
@@ -31,7 +29,6 @@
   font-size: 12px;
   line-height: 14.52px;
   letter-spacing: 0.12em;
-  text-align: start;
   margin-bottom: 8px;
   color: #aaa;
   text-transform: uppercase;
@@ -40,7 +37,6 @@
   font-weight: 400;
   font-size: 18px;
   line-height: 22px;
-  text-align: start;
   margin: 0;
 }
 .places__card-img {

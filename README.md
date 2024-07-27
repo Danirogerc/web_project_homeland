@@ -38,8 +38,8 @@ Esta página web ostenta una licencia propia del autor. Se prohíbe su utilizaci
 ## Autor
 
 - **Daniel Roger**
-
-¡Esperamos que disfrutes explorando y contribuyendo a nuestro proyecto de código!
+  https://danirogerc.github.io/web_project_homeland/
+  ¡Esperamos que disfrutes explorando y contribuyendo a nuestro proyecto de código!
 
 ---
 
